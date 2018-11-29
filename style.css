@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
+
+.clock {
+  font-size: 9rem;
+  font-weight: 700;
+}
